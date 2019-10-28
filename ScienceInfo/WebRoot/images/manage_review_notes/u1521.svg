@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="186px" height="30px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="clip35">
+      <path d="M 0 28  L 0 2  C 0 0.879999999999995  0.879999999999995 0  2 0  L 184 0  C 185.12 0  186 0.879999999999995  186 2  L 186 28  C 186 29.12  185.12 30  184 30  L 126.131147540984 30  L 2 30  C 0.879999999999995 30  0 29.12  0 28  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -589 -245 )">
+    <image preserveAspectRatio="none" style="overflow:visible" width="186" height="30" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALoAAAAeCAYAAACbgwQJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADwSURBVHhe7djLDYMwEEXRDDVlkcZYpI4UFRY0BAI5HmQkY9KA590jIX/E8soC27quz5TSx8xejyzPfQC6l5v2nqc8jrYsy9cjPwMndEThoRezh36U7YETOaLx2P0ZyhoI7RL6WT/Qu7Zl/xlNvlF/o9droDd1v2fstm3bpej2BaA37SHtLdu+77fQiRy9q2M/Qs8bf090IJLbrQunOSJoO76d6EBE3KNDAqFDAqFDAqFDAqFDAqFDAqFDAqFDAqFDAqFDAqFDAqFDAqFDAqFDAqFDAqFDAqFDwpBSmsocCCk3Pg9mNvqk7AGheNtm9v4BZdZh8Hngb8sAAAAASUVORK5CYII=" x="0px" y="0px" transform="matrix(1 0 0 1 589 245 )" />
+    <path d="M 0 28  L 0 2  C 0 0.879999999999995  0.879999999999995 0  2 0  L 184 0  C 185.12 0  186 0.879999999999995  186 2  L 186 28  C 186 29.12  185.12 30  184 30  L 126.131147540984 30  L 2 30  C 0.879999999999995 30  0 29.12  0 28  Z " stroke-width="2" stroke="#cccccc" fill="none" transform="matrix(1 0 0 1 589 245 )" mask="url(#clip35)" />
+  </g>
+</svg>
